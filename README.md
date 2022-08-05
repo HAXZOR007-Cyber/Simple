@@ -16,5 +16,7 @@ $ git clone https://gitlab.com/HAXZOR007-Cyber/Simple
 ```
 # Cara Menjalankan Scripts
 $ cd $HOME
+
 $ cd Simple
+
 $ python v2.py
