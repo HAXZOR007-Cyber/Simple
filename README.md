@@ -11,7 +11,7 @@ $ pip install futures
 $ pip install rich
 $ pip install mechanize
 $ cd $HOME
-$ rm -rf v2
+$ rm -rf Simple
 $ git clone https://gitlab.com/HAXZOR007-Cyber/Simple
 ```
 # Cara Menjalankan Scripts
