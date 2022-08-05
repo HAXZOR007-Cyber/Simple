@@ -13,6 +13,7 @@ $ pip install mechanize
 $ cd $HOME
 $ rm -rf v2
 $ git clone https://gitlab.com/HAXZOR007-Cyber/Simple
+
 # Cara Menjalankan Scripts
 $ cd $HOME
 $ cd Simple
